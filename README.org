@@ -1,0 +1,10 @@
+* cl-weather-jp
+
+Get weather in Japan
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/cl-weather-jp.git   |
+| commit  | 2d2fe33  |
+| systems | cl-weather-jp |
+|---------+-------------------------------------------|
+
